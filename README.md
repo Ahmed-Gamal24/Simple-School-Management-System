@@ -1,1 +1,1 @@
-# Simple School Management System Using C plus plus
+# Simple School Management System Using CPP
